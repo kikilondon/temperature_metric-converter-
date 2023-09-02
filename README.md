@@ -1,4 +1,1 @@
-The project is a temperature metric converter.
-First, the user enters the scale he wants to measure the temperature and then the number of degrees to convert.
-Then the programme converts the entered figure into Celsius, Fahrenheit and Kelvin degrees based on the user's choice.
-I built it with Javascript and HTML. 
+The project is a temperature unit converter. Initially, the user selects the temperature scale they wish to use for measurement and then enters the temperature value they want to convert. Subsequently, the program performs conversions to provide equivalent values in Celsius, Fahrenheit, and Kelvin, according to the user's selection.
